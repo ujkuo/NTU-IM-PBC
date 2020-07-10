@@ -1,7 +1,8 @@
-if __name__ == "__main__":
-nswer = []
+num = []
+answer = []
 for i in range(4):
-        num.append(int(input()))
+    num.append(int(input()))
+
 result = num[2] - num[1]
 for i in range(2):
     delta = num[i*2+1] - num[i*2]

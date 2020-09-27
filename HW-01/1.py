@@ -9,4 +9,3 @@ if remain >= 0:
     print("$" + str(remain))
 else:
     print(-1)
-
